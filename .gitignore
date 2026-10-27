@@ -1,0 +1,7 @@
+# Whitelist: ignore everything, track only what is listed below.
+*
+!.gitignore
+!README.md
+!README.en.md
+!cv/
+!cv/**
