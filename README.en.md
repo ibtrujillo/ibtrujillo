@@ -2,14 +2,13 @@
 
 # Hi, I'm Isaias Trujillo 👋
 
-**Full Stack Developer · Lima, Peru**
+**Full Stack Developer · Chancay, Lima, Peru**
 
-- Real-time attendance system (WebSockets) for more than 100 teachers.
-- Teacher survey used by more than 3,000 students.
-- Reduced a dashboard's load time from 15 s to under 1 s.
+Full Stack Developer, Bachelor's degree in Systems Engineering (UNMSM), with more than three years of experience in the public sector (education) and private sector (healthcare). I focus on React, Angular, Node.js and PostgreSQL under Clean Architecture, with scalable and maintainable code. I bring technical experience, skills, leadership and vision.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React (frontend)](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS (styling)](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js (backend)](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -19,19 +18,26 @@
 ![Figma (design)](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Linux (operating system)](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 💼 Experience
+## 💼 Work Experience
 
-- **Webmaster & Frontend Developer**, Faculty of Economic Sciences (UNMSM), Jul 2025 – Present. Migrated 3 institutional websites to Astro and managed content with Astro Collections.
-- **Full Stack Developer**, Faculty of Accounting Sciences (UNMSM), Jan – Jun 2025. Real-time attendance system and teacher survey.
-- **Full Stack Developer**, Maison de Santé Clinic, Mar – Sep 2024. Satisfaction surveys and an analytics dashboard.
+- **Webmaster & Frontend Developer**, Faculty of Economic Sciences (UNMSM), July 2025 – present. Progressive migration of websites to an AI-powered content management system.
+- **Full Stack Developer**, Faculty of Accounting Sciences (UNMSM), January 2025 – June 2025. Real-time web applications on a container-based architecture, database design and workflows to automate data processing.
+- **Full Stack Developer**, Clínica Maison de Santé, March 2024 – September 2024. Development of web applications and modules, KPI and NPS analysis, and component optimization.
+- **Junior Full Stack Developer**, Faculty of Accounting Sciences (UNMSM), May 2023 – December 2023. REST API in PHP and a React frontend.
 
 ## 🎓 Education
 
-- Bachelor's Degree in Systems Engineering, National University of San Marcos (2024).
+- Bachelor's degree in Systems Engineering, National University of San Marcos (2024).
 - API Security Architect and API Designer (API Academy, 2023). Scrum Foundation (SCRUMstudy – VMEdu, 2022).
+
+## 🌐 Languages
+
+- Spanish: native.
+- English: A2 (certified), advanced technical reading.
 
 ## 📫 Contact
 
 - CV: [cv.pdf](cv/english.pdf)
-- LinkedIn: [linkedin.com/in/ibtrujillo](https://linkedin.com/in/ibtrujillo)
-- Email: <github@itrujillo.dev>
+- LinkedIn: [pe.linkedin.com/in/ibtrujillo](https://pe.linkedin.com/in/ibtrujillo)
+- GitHub: [github.com/ibtrujillo](https://github.com/ibtrujillo)
+- Email: <cv@itrujillo.dev>
