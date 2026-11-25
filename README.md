@@ -4,7 +4,7 @@
 
 **Desarrollador Full Stack · Chancay, Lima, Perú**
 
-Desarrollador Full Stack, bachiller en Ingeniería de Sistemas (UNMSM), con más de tres años de experiencia en sector público (educación) y privado (salud). Me enfoco en React, Angular, Node.js y PostgreSQL bajo Clean Architecture, con código escalable y mantenible. Busco aportar experiencia técnica, habilidades, liderazgo y visión.
+Desarrollador Full Stack con experiencia en React, Angular, Node.js y PostgreSQL. Trabajo con Clean Architecture y escribo código escalable y mantenible.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React (frontend)](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -15,20 +15,22 @@ Desarrollador Full Stack, bachiller en Ingeniería de Sistemas (UNMSM), con más
 ![PostgreSQL (base de datos)](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker (contenedores)](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vitest (pruebas)](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Figma (diseño)](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Linux (sistema operativo)](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 💼 Experiencia laboral
 
-- **Webmaster y Desarrollador Frontend**, Facultad de Ciencias Económicas (UNMSM), julio 2025 – actualidad. Migración progresiva de sitios web hacia un sistema de gestión de contenido con IA.
-- **Desarrollador Full Stack**, Facultad de Ciencias Contables (UNMSM), enero 2025 – junio 2025. Aplicativos web en tiempo real sobre arquitectura de contenedores, diseño de base de datos y flujos de automatización del procesamiento de datos.
+- **Webmaster & Frontend Developer**, Universidad Nacional Mayor de San Marcos, Facultad de Ciencias Económicas, julio 2025 – actualidad. Migración progresiva de sitios web hacia un sistema de gestión de contenido con IA, gestión de recursos digitales e integración de analítica web.
+- **Desarrollador Full Stack**, Universidad Nacional Mayor de San Marcos, Facultad de Ciencias Contables, enero 2025 – junio 2025. Aplicativos web en tiempo real sobre arquitectura de contenedores, diseño de base de datos y flujos para automatizar el procesamiento de datos.
 - **Desarrollador Full Stack**, Clínica Maison de Santé, marzo 2024 – septiembre 2024. Desarrollo de aplicativos y módulos web, análisis de KPI y NPS, y optimización de componentes.
-- **Desarrollador Junior Full Stack**, Facultad de Ciencias Contables (UNMSM), mayo 2023 – diciembre 2023. API REST en PHP y frontend en React.
+- **Desarrollador Junior Full Stack**, Universidad Nacional Mayor de San Marcos, Facultad de Ciencias Contables, mayo 2023 – diciembre 2023. API REST en PHP y frontend en React.
 
 ## 🎓 Formación
 
-- Bachiller en Ingeniería de Sistemas, Universidad Nacional Mayor de San Marcos (2024).
-- API Security Architect y API Designer (API Academy, 2023). Scrum Foundation (SCRUMstudy – VMEdu, 2022).
+- Bachiller en Ingeniería de Sistemas, Universidad Nacional Mayor de San Marcos, Lima, Perú (2024).
+- API Security Architect (API Academy, 2023) · API Designer (API Academy, 2023) · Scrum Foundation (SCRUMstudy – VMEdu, 2022).
 
 ## 🌐 Idiomas
 
@@ -37,7 +39,9 @@ Desarrollador Full Stack, bachiller en Ingeniería de Sistemas (UNMSM), con más
 
 ## 📫 Contacto
 
-- CV: [cv.pdf](cv/spanish.pdf)
+Abierto a nuevas oportunidades.
+
+- CV: [cv/spanish.pdf](cv/spanish.pdf)
 - LinkedIn: [pe.linkedin.com/in/ibtrujillo](https://pe.linkedin.com/in/ibtrujillo)
 - GitHub: [github.com/ibtrujillo](https://github.com/ibtrujillo)
 - Email: <cv@itrujillo.dev>
