@@ -4,7 +4,7 @@
 
 **Full Stack Developer · Chancay, Lima, Peru**
 
-Full Stack Developer with experience in React, Angular, Node.js and PostgreSQL. I work with Clean Architecture and write scalable, maintainable code.
+Full Stack Developer, Bachelor's degree in Systems Engineering (UNMSM), with more than three years of experience in the public sector (education) and private sector (healthcare). I focus on React, Angular, Node.js and PostgreSQL under Clean Architecture, with scalable and maintainable code. I bring technical experience, skills, leadership and vision.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React (frontend)](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -30,7 +30,12 @@ Full Stack Developer with experience in React, Angular, Node.js and PostgreSQL. 
 ## 🎓 Education
 
 - Bachelor's degree in Systems Engineering, National University of San Marcos, Lima, Peru (2024).
-- API Security Architect (API Academy, 2023) · API Designer (API Academy, 2023) · Scrum Foundation (SCRUMstudy – VMEdu, 2022).
+
+## 🏅 Certifications
+
+- API Security Architect, API Academy (2023).
+- API Designer, API Academy (2023).
+- Scrum Foundation, SCRUMstudy – VMEdu (2022).
 
 ## 🌐 Languages
 
